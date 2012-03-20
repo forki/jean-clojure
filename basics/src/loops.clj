@@ -5,11 +5,11 @@
     (recur (dec x))))
 
 ; A function with an accumulator
+; (macro symbol persistentvector)
 (defn sum-down-from [sum x]
   (if (pos? x)
     (recur (+ sum x) (dec x)) ; if branch
     sum)); else branch
-
 
 (defn sum-down-from2 [initial-x]
   (loop [sum 0, x initial-x]

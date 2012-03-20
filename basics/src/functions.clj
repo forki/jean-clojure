@@ -2,12 +2,17 @@
 (fn my-type [arg]
   (type arg))
 
+; Calling an anonymous function
+((fn [x y] #{x y}) 1 2)
+;in C# f = (x,y) => new[]{x,y}
+;f(1,2);
+
 ; A function with arity (can be invoked with one or two parameters here)
 (fn
   ([x] #{x})
   ([x, y] #{x,y}))
 
-; Calling an anonymous function
+; Calling an anonymous function with arity
 ((fn
    ([x] #{x})
    ([x, y] #{x,y})), 1,2)
@@ -20,7 +25,7 @@
 
 ; A named function
 (def my-type
-  (fn [arg] (type arg)))
+  (fn [arg] (type arg))) ;
 
 ; or a shortcut for this
 (defn my-type [arg] (type arg))
