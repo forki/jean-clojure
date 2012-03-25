@@ -58,64 +58,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="basic_datatypes.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/basic_datatypes.clj">
+      <file leaf-file-name="unit_testing.clj" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/general/unit_testing.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/functions.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="loops.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loops.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="0" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="side_effects.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/side_effects.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="syntax_quote.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/syntax_quote.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="19" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="var.clj" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/var.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0761523">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fibonacci.clj" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/examples/fibonacci.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="11" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+            <state line="5" column="22" selection-start="111" selection-end="111" vertical-scroll-proportion="0.18234165">
               <folding />
             </state>
           </provider>
@@ -145,6 +91,8 @@
         <option value="$PROJECT_DIR$/src/fibonacci.clj" />
         <option value="$PROJECT_DIR$/src/examples/fibonacci.clj" />
         <option value="$PROJECT_DIR$/src/var.clj" />
+        <option value="$PROJECT_DIR$/src/java_interop.clj" />
+        <option value="$PROJECT_DIR$/src/general/unit_testing.clj" />
       </list>
     </option>
   </component>
@@ -188,6 +136,10 @@
               <option name="myItemId" value="basics" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -227,7 +179,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="examples" />
+              <option name="myItemId" value="general" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -495,51 +461,56 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/basic_datatypes.clj">
+    <entry file="file://$PROJECT_DIR$/src/examples/fibonacci.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="1" column="11" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/functions.clj">
+    <entry file="file://$PROJECT_DIR$/src/var.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/loops.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/side_effects.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.0">
+        <state line="0" column="31" selection-start="31" selection-end="31" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/syntax_quote.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="19" selection-start="251" selection-end="251" vertical-scroll-proportion="0.0">
+        <state line="10" column="22" selection-start="254" selection-end="254" vertical-scroll-proportion="0.24081115">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/fibonacci.clj">
+    <entry file="file://$PROJECT_DIR$/src/side_effects.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="11" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+        <state line="6" column="0" selection-start="123" selection-end="123" vertical-scroll-proportion="0.1444867">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/var.clj">
+    <entry file="file://$PROJECT_DIR$/src/loops.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="49" selection-end="49" vertical-scroll-proportion="0.0761523">
+        <state line="18" column="0" selection-start="521" selection-end="521" vertical-scroll-proportion="0.4334601">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="424" selection-end="424" vertical-scroll-proportion="0.43685567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basic_datatypes.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="411" selection-end="411" vertical-scroll-proportion="0.44072166">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/general/unit_testing.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="22" selection-start="111" selection-end="111" vertical-scroll-proportion="0.18234165">
           <folding />
         </state>
       </provider>
