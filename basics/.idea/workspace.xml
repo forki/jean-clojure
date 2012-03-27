@@ -61,7 +61,7 @@
       <file leaf-file-name="namespaces.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter2/namespaces.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
+            <state line="24" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -85,10 +85,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="truth.clj" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="truth.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter3/truth.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="9" selection-start="238" selection-end="238" vertical-scroll-proportion="0.418">
+            <state line="11" column="9" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fizzbuzz.clj" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/examples/fizzbuzz.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="2" selection-start="200" selection-end="200" vertical-scroll-proportion="0.38">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fizzbuzz_test.clj" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/examples/fizzbuzz_test.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="10" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -97,7 +115,7 @@
       <file leaf-file-name="java_interop.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/chapter2/java_interop.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="11" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0">
+            <state line="14" column="14" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -106,7 +124,7 @@
       <file leaf-file-name="unit_testing.clj" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/general/unit_testing.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="21" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
+            <state line="1" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -127,7 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/basic_datatypes..clj" />
         <option value="$PROJECT_DIR$/src/side_effects.clj" />
         <option value="$PROJECT_DIR$/src/syntax_quote.clj" />
         <option value="$PROJECT_DIR$/src/basic_datatypes.clj" />
@@ -141,6 +158,9 @@
         <option value="$PROJECT_DIR$/src/exceptions.clj" />
         <option value="$PROJECT_DIR$/src/namespaces.clj" />
         <option value="$PROJECT_DIR$/src/chapter3/truth.clj" />
+        <option value="$PROJECT_DIR$/src/examples/fizzfuzz.clj" />
+        <option value="$PROJECT_DIR$/src/examples/fizzbuzz_test.clj" />
+        <option value="$PROJECT_DIR$/src/examples/fizzbuzz.clj" />
       </list>
     </option>
   </component>
@@ -229,22 +249,8 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="basics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter3" />
+              <option name="myItemId" value="examples" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -259,10 +265,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chapter2" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -571,23 +573,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter2/namespaces.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="898" selection-end="898" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/chapter2/loops.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="0" selection-start="521" selection-end="521" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/general/unit_testing.clj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="21" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -599,16 +587,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter2/java_interop.clj">
+    <entry file="file://$PROJECT_DIR$/src/chapter3/truth.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="11" selection-start="445" selection-end="445" vertical-scroll-proportion="0.0">
+        <state line="11" column="9" selection-start="238" selection-end="238" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/chapter3/truth.clj">
+    <entry file="file://$PROJECT_DIR$/src/general/unit_testing.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="9" selection-start="238" selection-end="238" vertical-scroll-proportion="0.418">
+        <state line="1" column="0" selection-start="17" selection-end="17" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/java_interop.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="14" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/chapter2/namespaces.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="0" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/fizzbuzz_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="10" selection-start="629" selection-end="629" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/fizzbuzz.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="200" selection-end="200" vertical-scroll-proportion="0.38">
           <folding />
         </state>
       </provider>
